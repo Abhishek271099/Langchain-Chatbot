@@ -1,0 +1,11 @@
+openai
+streamlit
+streamlit-chat
+langchain
+PyPDF2
+faiss-cpu
+tiktoken
+matplotlib
+plotly
+scipy
+scikit-learn
